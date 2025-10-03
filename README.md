@@ -2,7 +2,7 @@
 
 This project demonstrates how to automatically **summarise online news articles** and perform **sentiment analysis** on their content. It uses the `newspaper3k` library for article extraction and summarisation, `TextBlob` for sentiment analysis, and provides a **Tkinter-based graphical interface** for ease of use.  
 
-###Project Structure  
+### Project Structure  
 
 News_Summariser_Sentiment/
 
@@ -59,5 +59,3 @@ Joshua Taylor
 taylor.jw21@hotmail.com
 
 Feel free to reach out for collaboration or feedback!
-
-
